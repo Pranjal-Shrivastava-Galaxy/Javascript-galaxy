@@ -1,0 +1,15 @@
+Definition:
+
+JavaScript (JS) is a high-level, interpreted programming language primarily used to add interactivity to web pages. It runs in the browser and enables dynamic behaviors like animations, form validation, and content updates without reloading the page.
+
+Where it fits:
+
+HTML: Structure
+CSS: Styling
+JavaScript: Interactivity
+
+JavaScript with Next.js:
+
+Next.js is a React-based framework that allows server-side rendering and building full-stack applications.
+
+JavaScript powers the React components, event handling, API communication, and logic inside your Next.js frontend.
